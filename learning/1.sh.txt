@@ -1,0 +1,22 @@
+varibale="ABdullah"
+
+echo "Good Morning ${varibale}"
+
+sleep 3
+
+echo "you're looking good today ${varibale}"
+
+sleep 3
+
+echo "you have the best beard i've ever seen ${varibale}"
+
+sleep 3
+echo "Good Morning ${1}"
+
+sleep 3
+
+echo "you're looking good today ${1}"
+
+sleep 3
+
+echo "you have the best beard i've ever seen ${1}"
